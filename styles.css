@@ -1,0 +1,23 @@
+/*****TAG SELECTOR*****/
+h1{
+   font-family: 'Baloo 2', serif;
+}
+h2{
+  font-family: 'Pacifico', serif;
+}
+
+
+
+
+
+
+
+
+
+/******CLASS SELECTOR******/
+.first{
+  position: absolute;
+  margin: 0;
+  height:100px;
+
+}
