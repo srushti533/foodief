@@ -1,23 +1,43 @@
-/*****TAG SELECTOR*****/
-h1{
+body{
    font-family: 'Baloo 2', serif;
+
 }
-h2{
-  font-family: 'Pacifico', serif;
+h3{
+  font-family:serif;
+  color:black;
+
+}
+/* Container holding the image and the text */
+
+.firstimg{
+opacity:0.5;
+
+
+}
+.container {
+  position: relative;
+  margin:0;
+  text-align: center;
+  color: black;
+  font size:100%;
 }
 
+.image {
+  opacity:1;
+  display: block;
 
-
-
-
-
-
-
-
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.a{
+  color:black;
+}
 /******CLASS SELECTOR******/
 .first{
-  position: absolute;
-  margin: 0;
-  height:100px;
-
+  height:500px;
+width:1000px;
+}
+.ph{
+  height:500px;
+width:1000px;
 }
