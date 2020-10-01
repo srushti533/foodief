@@ -56,9 +56,10 @@ button:hover {
 
 /* Extra style for the cancel button (red) */
 .cancelbtn {
-  width: 30%;
-  padding: 14px 20px;
+  width: 31%;
+  padding: 16px 22px;
   background-color: #f44336;
+  border: 2px solid black;
 }
 
 
@@ -72,7 +73,8 @@ span.psw {
   float: right;
   padding:10px;
   margin-right:100px;
-  background-color: #e2e9e9
+  background-color: #95160d;
+  
 }
 
 /* Change styles for span and cancel button on extra small screens */
